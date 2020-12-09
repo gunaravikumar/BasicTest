@@ -1,0 +1,7 @@
+[INFO ] 2020-11-09 16:03:18.838 importStudy():19 - File name: Study.dcm
+[INFO ] 2020-11-09 16:03:19.138 importStudy():20 - File path: D:\Dicom\Study.dcm
+[INFO ] 2020-11-09 16:03:25.230 importStudy():25 - File name: GRK^KING^^^^27679_I3998.dcm
+[INFO ] 2020-11-09 16:03:32.656 importStudy():26 - File path: D:\Dicom\Test\GRK^KING^^^^27679_I3998.dcm
+[INFO ] 2020-11-09 16:03:36.243 importStudy():25 - File name: Saravanan.dcm
+[INFO ] 2020-11-09 16:03:36.465 importStudy():26 - File path: D:\Dicom\Test2\Saravanan.dcm
+[INFO ] 2020-11-09 16:03:38.393 importStudy():32 - Initiating C-STORE operation...

@@ -1,0 +1,5 @@
+[INFO ] 2020-11-09 13:16:00.014 importStudy():17 - File name: Test
+[INFO ] 2020-11-09 13:16:00.485 importStudy():18 - File path: D:\Dicom\Test
+[INFO ] 2020-11-09 13:16:02.133 importStudy():17 - File name: Test2
+[INFO ] 2020-11-09 13:16:02.464 importStudy():18 - File path: D:\Dicom\Test2
+[INFO ] 2020-11-09 13:16:04.616 importStudy():21 - Initiating C-STORE operation...

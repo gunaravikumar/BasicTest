@@ -1,0 +1,18 @@
+[INFO ] 2020-10-28 14:11:29.863 launchApplication():1061 - The given URL -https://viewer.ohif.org/- is launched successfully.
+[INFO ] 2020-10-28 14:11:33.272 importStudy():17 - File name: QA150042_1.dcm
+[INFO ] 2020-10-28 14:11:33.273 importStudy():18 - File path: D:\Dicom\QA150042_1.dcm
+[INFO ] 2020-10-28 14:11:36.523 importStudy():17 - File name: QA150042_2.dcm
+[INFO ] 2020-10-28 14:11:36.524 importStudy():18 - File path: D:\Dicom\QA150042_2.dcm
+[INFO ] 2020-10-28 14:11:36.544 importStudy():17 - File name: Saravanan.dcm
+[INFO ] 2020-10-28 14:11:36.545 importStudy():18 - File path: D:\Dicom\Saravanan.dcm
+[INFO ] 2020-10-28 14:11:36.556 importStudy():17 - File name: Set 1^Prioir 1^50321_I1.dcm
+[INFO ] 2020-10-28 14:11:36.557 importStudy():18 - File path: D:\Dicom\Set 1^Prioir 1^50321_I1.dcm
+[INFO ] 2020-10-28 14:11:36.871 importStudy():17 - File name: Set 1^Prioir 1^50321_I2.dcm
+[INFO ] 2020-10-28 14:11:36.871 importStudy():18 - File path: D:\Dicom\Set 1^Prioir 1^50321_I2.dcm
+[INFO ] 2020-10-28 14:11:36.906 importStudy():17 - File name: Set 1^Prioir 1^50321_I3.dcm
+[INFO ] 2020-10-28 14:11:36.907 importStudy():18 - File path: D:\Dicom\Set 1^Prioir 1^50321_I3.dcm
+[INFO ] 2020-10-28 14:11:36.944 importStudy():17 - File name: Set 1^Prioir 1^50321_I4.dcm
+[INFO ] 2020-10-28 14:11:36.945 importStudy():18 - File path: D:\Dicom\Set 1^Prioir 1^50321_I4.dcm
+[INFO ] 2020-10-28 14:11:36.982 importStudy():17 - File name: Set 1^Prioir 1^50321_I5.dcm
+[INFO ] 2020-10-28 14:11:36.982 importStudy():18 - File path: D:\Dicom\Set 1^Prioir 1^50321_I5.dcm
+[INFO ] 2020-10-28 14:11:41.477 importStudy():21 - Initiating C-STORE operation...

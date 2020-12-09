@@ -1,0 +1,3 @@
+[INFO ] 2020-10-28 14:44:47.861 launchApplication():1061 - The given URL -https://viewer.ohif.org/- is launched successfully.
+[INFO ] 2020-10-28 14:44:54.541 importStudy():17 - File name: 1_1_1424710063-368.dcm
+[INFO ] 2020-10-28 14:44:55.235 importStudy():18 - File path: D:\Dicom\1_1_1424710063-368.dcm

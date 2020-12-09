@@ -1,0 +1,10 @@
+[INFO ] 2020-10-28 14:05:31.251 launchApplication():1061 - The given URL -https://viewer.ohif.org/- is launched successfully.
+[INFO ] 2020-10-28 14:05:35.271 importStudy():17 - File name: QA150042_1.dcm
+[INFO ] 2020-10-28 14:05:35.271 importStudy():18 - File path: D:\Dicom\QA150042_1.dcm
+[INFO ] 2020-10-28 14:05:35.483 importStudy():17 - File name: QA150042_2.dcm
+[INFO ] 2020-10-28 14:05:35.484 importStudy():18 - File path: D:\Dicom\QA150042_2.dcm
+[INFO ] 2020-10-28 14:05:35.489 importStudy():17 - File name: Saravanan.dcm
+[INFO ] 2020-10-28 14:05:35.490 importStudy():18 - File path: D:\Dicom\Saravanan.dcm
+[INFO ] 2020-10-28 14:05:35.493 importStudy():17 - File name: SaravananCopy.dcm
+[INFO ] 2020-10-28 14:05:35.493 importStudy():18 - File path: D:\Dicom\SaravananCopy.dcm
+[INFO ] 2020-10-28 14:05:36.291 importStudy():21 - Initiating C-STORE operation...

@@ -1,0 +1,20 @@
+[INFO ] 2020-11-09 16:12:02.618 importStudy():25 - File name: GRK^KING^^^^27679_I3998.dcm
+[INFO ] 2020-11-09 16:12:03.310 importStudy():26 - File path: D:\Dicom\Test\GRK^KING^^^^27679_I3998.dcm
+[INFO ] 2020-11-09 16:12:06.357 importStudy():25 - File name: Saravanan.dcm
+[INFO ] 2020-11-09 16:12:06.607 importStudy():26 - File path: D:\Dicom\Test2\Saravanan.dcm
+[INFO ] 2020-11-09 16:12:07.627 importStudy():32 - Initiating C-STORE operation...
+[INFO ] 2020-11-09 16:12:18.319 updateStatus():62 - SOP Instance ID being transferred:1.3.6.1.4.1.5962.99.1.4024.1631.1524442889034.1.1.2322.3232.2234
+[INFO ] 2020-11-09 16:12:18.321 updateStatus():63 - Items in Queue:2
+[INFO ] 2020-11-09 16:12:18.321 updateStatus():64 - Transfers Completed:1
+[INFO ] 2020-11-09 16:12:18.322 updateStatus():65 - Failed Transmits:0
+[INFO ] 2020-11-09 16:12:18.322 updateStatus():66 - Warnings:0
+[INFO ] 2020-11-09 16:12:18.441 updateStatus():62 - SOP Instance ID being transferred:1.2.840.113619.2.21.0.118836.20000503094214.1000.1.3501
+[INFO ] 2020-11-09 16:12:18.442 updateStatus():63 - Items in Queue:1
+[INFO ] 2020-11-09 16:12:18.442 updateStatus():64 - Transfers Completed:2
+[INFO ] 2020-11-09 16:12:18.443 updateStatus():65 - Failed Transmits:0
+[INFO ] 2020-11-09 16:12:18.443 updateStatus():66 - Warnings:0
+[INFO ] 2020-11-09 16:12:18.512 updateStatus():62 - SOP Instance ID being transferred:1.3.6.1.4.3998.49236714.185238.17249.532.67
+[INFO ] 2020-11-09 16:12:18.513 updateStatus():63 - Items in Queue:0
+[INFO ] 2020-11-09 16:12:18.514 updateStatus():64 - Transfers Completed:3
+[INFO ] 2020-11-09 16:12:18.515 updateStatus():65 - Failed Transmits:0
+[INFO ] 2020-11-09 16:12:18.515 updateStatus():66 - Warnings:0

@@ -1,0 +1,4 @@
+[INFO ] 2020-11-09 15:57:44.948 importStudy():19 - File name: Study.dcm
+[INFO ] 2020-11-09 15:57:45.291 importStudy():20 - File path: D:\Dicom\Study.dcm
+[INFO ] 2020-11-09 15:57:51.070 importStudy():23 - File name: Test
+[INFO ] 2020-11-09 15:57:51.667 importStudy():24 - File path: D:\Dicom\Test

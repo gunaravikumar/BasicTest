@@ -1,0 +1,3 @@
+[INFO ] 2020-10-28 12:48:56.735 launchApplication():1061 - The given URL -https://viewer.ohif.org/- is launched successfully.
+[INFO ] 2020-10-28 12:48:59.942 importStudy():17 - File name: QA150042_1.dcm
+[INFO ] 2020-10-28 12:48:59.942 importStudy():18 - File path: D:\Dicom\QA150042_1.dcm

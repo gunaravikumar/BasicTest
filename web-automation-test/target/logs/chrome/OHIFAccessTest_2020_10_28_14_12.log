@@ -1,0 +1,58 @@
+[INFO ] 2020-10-28 14:12:24.471 launchApplication():1061 - The given URL -https://viewer.ohif.org/- is launched successfully.
+[INFO ] 2020-10-28 14:12:28.383 importStudy():17 - File name: QA150042_1.dcm
+[INFO ] 2020-10-28 14:12:28.383 importStudy():18 - File path: D:\Dicom\QA150042_1.dcm
+[INFO ] 2020-10-28 14:12:28.609 importStudy():17 - File name: QA150042_2.dcm
+[INFO ] 2020-10-28 14:12:28.609 importStudy():18 - File path: D:\Dicom\QA150042_2.dcm
+[INFO ] 2020-10-28 14:12:28.613 importStudy():17 - File name: Saravanan.dcm
+[INFO ] 2020-10-28 14:12:28.613 importStudy():18 - File path: D:\Dicom\Saravanan.dcm
+[INFO ] 2020-10-28 14:12:28.616 importStudy():17 - File name: Set 1^Prioir 1^50321_I1.dcm
+[INFO ] 2020-10-28 14:12:28.616 importStudy():18 - File path: D:\Dicom\Set 1^Prioir 1^50321_I1.dcm
+[INFO ] 2020-10-28 14:12:28.643 importStudy():17 - File name: Set 1^Prioir 1^50321_I2.dcm
+[INFO ] 2020-10-28 14:12:28.643 importStudy():18 - File path: D:\Dicom\Set 1^Prioir 1^50321_I2.dcm
+[INFO ] 2020-10-28 14:12:28.647 importStudy():17 - File name: Set 1^Prioir 1^50321_I3.dcm
+[INFO ] 2020-10-28 14:12:28.647 importStudy():18 - File path: D:\Dicom\Set 1^Prioir 1^50321_I3.dcm
+[INFO ] 2020-10-28 14:12:28.651 importStudy():17 - File name: Set 1^Prioir 1^50321_I4.dcm
+[INFO ] 2020-10-28 14:12:28.652 importStudy():18 - File path: D:\Dicom\Set 1^Prioir 1^50321_I4.dcm
+[INFO ] 2020-10-28 14:12:28.655 importStudy():17 - File name: Set 1^Prioir 1^50321_I5.dcm
+[INFO ] 2020-10-28 14:12:28.657 importStudy():18 - File path: D:\Dicom\Set 1^Prioir 1^50321_I5.dcm
+[INFO ] 2020-10-28 14:12:29.414 importStudy():21 - Initiating C-STORE operation...
+[INFO ] 2020-10-28 14:12:30.432 updateStatus():60 - SOP Instance ID being transferred:1.2018.03.1.12027350.888828.90198.934.86
+[INFO ] 2020-10-28 14:12:30.433 updateStatus():61 - Items in Queue:7
+[INFO ] 2020-10-28 14:12:30.433 updateStatus():62 - Transfers Completed:1
+[INFO ] 2020-10-28 14:12:30.434 updateStatus():63 - Failed Transmits:0
+[INFO ] 2020-10-28 14:12:30.434 updateStatus():64 - Warnings:0
+[INFO ] 2020-10-28 14:12:30.716 updateStatus():60 - SOP Instance ID being transferred:1.2018.03.1.11495272.863645.81158.887.95
+[INFO ] 2020-10-28 14:12:30.717 updateStatus():61 - Items in Queue:6
+[INFO ] 2020-10-28 14:12:30.717 updateStatus():62 - Transfers Completed:2
+[INFO ] 2020-10-28 14:12:30.718 updateStatus():63 - Failed Transmits:0
+[INFO ] 2020-10-28 14:12:30.718 updateStatus():64 - Warnings:0
+[INFO ] 2020-10-28 14:12:30.942 updateStatus():60 - SOP Instance ID being transferred:1.2018.03.1.35028504.168266.20294.989.36
+[INFO ] 2020-10-28 14:12:30.943 updateStatus():61 - Items in Queue:5
+[INFO ] 2020-10-28 14:12:30.944 updateStatus():62 - Transfers Completed:3
+[INFO ] 2020-10-28 14:12:30.944 updateStatus():63 - Failed Transmits:0
+[INFO ] 2020-10-28 14:12:30.945 updateStatus():64 - Warnings:0
+[INFO ] 2020-10-28 14:12:31.070 updateStatus():60 - SOP Instance ID being transferred:1.3.6.1.4.1.5962.99.1.4024.1631.1524442889034.1.1.2322.3232.2234
+[INFO ] 2020-10-28 14:12:31.071 updateStatus():61 - Items in Queue:4
+[INFO ] 2020-10-28 14:12:31.071 updateStatus():62 - Transfers Completed:4
+[INFO ] 2020-10-28 14:12:31.072 updateStatus():63 - Failed Transmits:0
+[INFO ] 2020-10-28 14:12:31.073 updateStatus():64 - Warnings:0
+[INFO ] 2020-10-28 14:12:31.298 updateStatus():60 - SOP Instance ID being transferred:1.2018.03.1.49477347.418379.71480.281.20
+[INFO ] 2020-10-28 14:12:31.299 updateStatus():61 - Items in Queue:3
+[INFO ] 2020-10-28 14:12:31.299 updateStatus():62 - Transfers Completed:5
+[INFO ] 2020-10-28 14:12:31.300 updateStatus():63 - Failed Transmits:0
+[INFO ] 2020-10-28 14:12:31.301 updateStatus():64 - Warnings:0
+[INFO ] 2020-10-28 14:12:31.510 updateStatus():60 - SOP Instance ID being transferred:1.2018.03.1.26921765.289906.23622.183.72
+[INFO ] 2020-10-28 14:12:31.510 updateStatus():61 - Items in Queue:2
+[INFO ] 2020-10-28 14:12:31.511 updateStatus():62 - Transfers Completed:6
+[INFO ] 2020-10-28 14:12:31.511 updateStatus():63 - Failed Transmits:0
+[INFO ] 2020-10-28 14:12:31.512 updateStatus():64 - Warnings:0
+[INFO ] 2020-10-28 14:12:31.647 updateStatus():60 - SOP Instance ID being transferred:1.2.840.113619.2.21.0.118836.20000503094214.1000.1.3501
+[INFO ] 2020-10-28 14:12:31.647 updateStatus():61 - Items in Queue:1
+[INFO ] 2020-10-28 14:12:31.648 updateStatus():62 - Transfers Completed:7
+[INFO ] 2020-10-28 14:12:31.648 updateStatus():63 - Failed Transmits:0
+[INFO ] 2020-10-28 14:12:31.649 updateStatus():64 - Warnings:0
+[INFO ] 2020-10-28 14:12:31.781 updateStatus():60 - SOP Instance ID being transferred:1.2.840.113619.2.21.0.118836.20000503094214.1000.1.3501
+[INFO ] 2020-10-28 14:12:31.782 updateStatus():61 - Items in Queue:0
+[INFO ] 2020-10-28 14:12:31.782 updateStatus():62 - Transfers Completed:8
+[INFO ] 2020-10-28 14:12:31.783 updateStatus():63 - Failed Transmits:0
+[INFO ] 2020-10-28 14:12:31.784 updateStatus():64 - Warnings:0

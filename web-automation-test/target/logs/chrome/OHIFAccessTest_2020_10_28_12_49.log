@@ -1,0 +1,7 @@
+[INFO ] 2020-10-28 12:49:00.168 importStudy():17 - File name: QA150042_2.dcm
+[INFO ] 2020-10-28 12:49:00.193 importStudy():18 - File path: D:\Dicom\QA150042_2.dcm
+[INFO ] 2020-10-28 12:49:00.204 importStudy():17 - File name: Saravanan.dcm
+[INFO ] 2020-10-28 12:49:00.204 importStudy():18 - File path: D:\Dicom\Saravanan.dcm
+[INFO ] 2020-10-28 12:49:00.209 importStudy():17 - File name: SaravananCopy.dcm
+[INFO ] 2020-10-28 12:49:00.210 importStudy():18 - File path: D:\Dicom\SaravananCopy.dcm
+[INFO ] 2020-10-28 12:49:01.042 importStudy():21 - Initiating C-STORE operation...

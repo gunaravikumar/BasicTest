@@ -1,0 +1,23 @@
+[INFO ] 2020-10-28 12:53:00.074 launchApplication():1061 - The given URL -https://viewer.ohif.org/- is launched successfully.
+[INFO ] 2020-10-28 12:53:02.422 importStudy():17 - File name: QA150042_1.dcm
+[INFO ] 2020-10-28 12:53:02.423 importStudy():18 - File path: D:\Dicom\QA150042_1.dcm
+[INFO ] 2020-10-28 12:53:02.651 importStudy():17 - File name: QA150042_2.dcm
+[INFO ] 2020-10-28 12:53:02.651 importStudy():18 - File path: D:\Dicom\QA150042_2.dcm
+[INFO ] 2020-10-28 12:53:02.658 importStudy():17 - File name: Saravanan.dcm
+[INFO ] 2020-10-28 12:53:02.658 importStudy():18 - File path: D:\Dicom\Saravanan.dcm
+[INFO ] 2020-10-28 12:53:04.054 importStudy():21 - Initiating C-STORE operation...
+[INFO ] 2020-10-28 12:53:05.885 updateStatus():60 - SOP Instance ID being transferred:1.3.6.1.4.1.5962.99.1.4024.1631.1524442889034.1.1.2322.3232.2234
+[INFO ] 2020-10-28 12:53:05.886 updateStatus():61 - Items in Queue:2
+[INFO ] 2020-10-28 12:53:05.887 updateStatus():62 - Transfers Completed:1
+[INFO ] 2020-10-28 12:53:05.887 updateStatus():63 - Failed Transmits:0
+[INFO ] 2020-10-28 12:53:05.888 updateStatus():64 - Warnings:0
+[INFO ] 2020-10-28 12:53:06.031 updateStatus():60 - SOP Instance ID being transferred:1.2.840.113619.2.21.0.118836.20000503094214.1000.1.3501
+[INFO ] 2020-10-28 12:53:06.032 updateStatus():61 - Items in Queue:1
+[INFO ] 2020-10-28 12:53:06.033 updateStatus():62 - Transfers Completed:2
+[INFO ] 2020-10-28 12:53:06.033 updateStatus():63 - Failed Transmits:0
+[INFO ] 2020-10-28 12:53:06.034 updateStatus():64 - Warnings:0
+[INFO ] 2020-10-28 12:53:06.134 updateStatus():60 - SOP Instance ID being transferred:1.2.840.113619.2.21.0.118836.20000503094214.1000.1.3501
+[INFO ] 2020-10-28 12:53:06.135 updateStatus():61 - Items in Queue:0
+[INFO ] 2020-10-28 12:53:06.135 updateStatus():62 - Transfers Completed:3
+[INFO ] 2020-10-28 12:53:06.136 updateStatus():63 - Failed Transmits:0
+[INFO ] 2020-10-28 12:53:06.137 updateStatus():64 - Warnings:0
